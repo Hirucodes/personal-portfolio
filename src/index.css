@@ -8,6 +8,7 @@ body
   font-family: "space grotesk", sans-serif;
   background: #0a0a0a;
   color: #f3f4f6;
+  scroll-behavior: smooth;
 }
 @layer utilities{
 @keyframes blink {
